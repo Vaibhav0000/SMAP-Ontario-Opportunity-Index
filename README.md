@@ -43,10 +43,88 @@ Index (0–100) to identify where service gaps and commercial expansion opportun
   <li>Oshawa: 0.3 devices per 10,000 seniors</li>
 </ul>
 
-<p><strong>The issue is not absence of supply.<br/>
+<p><strong>The issue is not the absence of supply.<br/>
 It is concentration in the wrong cities.</strong></p>
 
 <hr/>
+
+<hr/>
+
+<h2>Dashboard Showcase</h2>
+
+<p>
+The SMAP dashboards translate the Opportunity Intelligence Framework into structured, decision-ready views across Ontario CMAs.
+</p>
+
+<br/>
+
+<h3>1. Executive Summary</h3>
+<p align="center">
+  <img src="dashboards/Executive Summary.png" width="60%" alt="Executive Summary Dashboard"/>
+</p>
+<p>
+High-level provincial overview of Supply, Access, Demand, and composite Opportunity Scores across CMAs.
+</p>
+
+<br/>
+
+<h3>2. Demand Deep Dive - Province</h3>
+<p align="center">
+  <img src="dashboards/Demand Deep Dive.png" width="60%" alt="Demand Deep Dive Province"/>
+</p>
+<p>
+Provincial-level analysis of senior population growth, disability prevalence, and assistive technology usage trends.
+</p>
+
+<br/>
+
+<h3>3. Demand Deep Dive - CMA</h3>
+<p align="center">
+  <img src="dashboards/Demand Deep Dive - CMA.png" width="60%" alt="Demand Deep Dive CMA"/>
+</p>
+<p>
+CMA-level demand intensity analysis highlighting localized unmet mobility need.
+</p>
+
+<br/>
+
+<h3>4. Supply Analysis</h3>
+<p align="center">
+  <img src="dashboards/Supply Analysis.png" width="60%" alt="Supply Analysis Dashboard"/>
+</p>
+<p>
+Distribution of licensed mobility device manufacturers and active device counts across Ontario CMAs.
+</p>
+
+<br/>
+
+<h3>5. Access & Vendors</h3>
+<p align="center">
+  <img src="dashboards/Access & Vendors.png" width="60%" alt="Access and Vendors Dashboard"/>
+</p>
+<p>
+Vendor density and accessibility mapping to identify structural service coverage gaps.
+</p>
+
+<br/>
+
+<h3>6. Equity and Seniors</h3>
+<p align="center">
+  <img src="dashboards/Equity and Seniors.png" width="60%" alt="Equity and Seniors Dashboard"/>
+</p>
+<p>
+Equity-weighted vulnerability indicators intersected with senior growth to surface high-risk regions.
+</p>
+
+<br/>
+
+<h3>7. Combined Opportunity</h3>
+<p align="center">
+  <img src="dashboards/Opportunity Score.png" width="60%" alt="Combined Opportunity Dashboard"/>
+</p>
+<p>
+Composite Opportunity Index (0–100) ranking CMAs by unmet need and expansion potential.
+</p>
 
 <h2>Target Users</h2>
 
