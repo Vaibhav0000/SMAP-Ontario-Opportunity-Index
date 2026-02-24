@@ -1,0 +1,244 @@
+year,cma_code,cma_name,vendor_count,active_licence_count,active_device_count,seniors_65plus
+1998,535,Toronto,2,6,7,1002645
+1998,NA,Unmapped / Out-of-scope,1,5,7,
+1999,530,Kawartha Lakes,1,24,24,
+1999,532,Oshawa,1,2,3,65435
+1999,535,Toronto,8,37,75,1002645
+1999,537,Hamilton,2,6,8,149635
+1999,568,Barrie,1,1,1,34440
+1999,NA,Unmapped / Out-of-scope,20,91,147,
+2000,530,Kawartha Lakes,1,25,26,
+2000,532,Oshawa,1,2,3,65435
+2000,535,Toronto,8,44,90,1002645
+2000,537,Hamilton,2,6,8,149635
+2000,568,Barrie,1,1,1,34440
+2000,NA,Unmapped / Out-of-scope,22,110,178,
+2001,530,Kawartha Lakes,1,25,26,
+2001,532,Oshawa,1,2,3,65435
+2001,535,Toronto,8,47,94,1002645
+2001,537,Hamilton,2,7,9,149635
+2001,568,Barrie,1,2,2,34440
+2001,NA,Unmapped / Out-of-scope,27,129,215,
+2002,530,Kawartha Lakes,1,25,26,
+2002,532,Oshawa,1,2,3,65435
+2002,535,Toronto,11,54,106,1002645
+2002,537,Hamilton,2,7,9,149635
+2002,568,Barrie,1,3,3,34440
+2002,NA,Unmapped / Out-of-scope,33,156,272,
+2003,530,Kawartha Lakes,1,25,26,
+2003,532,Oshawa,1,2,3,65435
+2003,535,Toronto,11,58,114,1002645
+2003,537,Hamilton,2,8,10,149635
+2003,568,Barrie,1,4,7,34440
+2003,NA,Unmapped / Out-of-scope,35,172,304,
+2004,530,Kawartha Lakes,1,25,26,
+2004,532,Oshawa,1,2,3,65435
+2004,535,Toronto,14,65,130,1002645
+2004,537,Hamilton,3,15,30,149635
+2004,568,Barrie,1,5,8,34440
+2004,NA,Unmapped / Out-of-scope,43,217,393,
+2005,530,Kawartha Lakes,1,26,27,
+2005,532,Oshawa,1,2,3,65435
+2005,535,Toronto,18,80,160,1002645
+2005,537,Hamilton,3,17,33,149635
+2005,568,Barrie,1,5,8,34440
+2005,NA,Unmapped / Out-of-scope,51,245,475,
+2006,530,Kawartha Lakes,1,26,27,
+2006,532,Oshawa,1,2,3,65435
+2006,535,Toronto,25,94,215,1002645
+2006,537,Hamilton,3,17,33,149635
+2006,541,Kitchener - Cambridge - Waterloo,2,6,31,89705
+2006,568,Barrie,1,8,13,34440
+2006,NA,Unmapped / Out-of-scope,63,285,565,
+2007,530,Kawartha Lakes,1,26,27,
+2007,532,Oshawa,1,2,3,65435
+2007,535,Toronto,27,103,259,1002645
+2007,537,Hamilton,4,20,38,149635
+2007,541,Kitchener - Cambridge - Waterloo,2,7,35,89705
+2007,568,Barrie,1,9,15,34440
+2007,NA,Unmapped / Out-of-scope,69,347,707,
+2008,530,Kawartha Lakes,1,26,27,
+2008,532,Oshawa,1,2,3,65435
+2008,535,Toronto,29,123,328,1002645
+2008,537,Hamilton,4,22,40,149635
+2008,541,Kitchener - Cambridge - Waterloo,3,8,36,89705
+2008,568,Barrie,1,11,17,34440
+2008,NA,Unmapped / Out-of-scope,76,378,779,
+2009,530,Kawartha Lakes,1,26,46,
+2009,532,Oshawa,1,2,3,65435
+2009,535,Toronto,29,137,391,1002645
+2009,537,Hamilton,4,22,41,149635
+2009,541,Kitchener - Cambridge - Waterloo,3,8,36,89705
+2009,568,Barrie,1,14,32,34440
+2009,NA,Unmapped / Out-of-scope,90,454,972,
+2010,530,Kawartha Lakes,1,28,48,
+2010,532,Oshawa,1,2,3,65435
+2010,535,Toronto,31,164,504,1002645
+2010,537,Hamilton,4,23,42,149635
+2010,541,Kitchener - Cambridge - Waterloo,5,13,42,89705
+2010,568,Barrie,1,14,32,34440
+2010,NA,Unmapped / Out-of-scope,97,534,1247,
+2011,530,Kawartha Lakes,1,28,52,
+2011,532,Oshawa,1,2,3,65435
+2011,535,Toronto,33,178,545,1002645
+2011,537,Hamilton,4,23,42,149635
+2011,541,Kitchener - Cambridge - Waterloo,5,13,42,89705
+2011,568,Barrie,1,14,32,34440
+2011,NA,Unmapped / Out-of-scope,108,586,1434,
+2012,505,Ottawa - Gatineau (Ontario part / partie de l'Ontario),1,1,1,195980
+2012,530,Kawartha Lakes,1,28,54,
+2012,532,Oshawa,1,2,3,65435
+2012,535,Toronto,37,197,607,1002645
+2012,537,Hamilton,4,28,51,149635
+2012,541,Kitchener - Cambridge - Waterloo,5,14,44,89705
+2012,568,Barrie,1,15,34,34440
+2012,NA,Unmapped / Out-of-scope,118,647,1710,
+2013,505,Ottawa - Gatineau (Ontario part / partie de l'Ontario),1,1,1,195980
+2013,530,Kawartha Lakes,1,28,54,
+2013,532,Oshawa,1,3,4,65435
+2013,535,Toronto,38,212,640,1002645
+2013,537,Hamilton,4,28,51,149635
+2013,541,Kitchener - Cambridge - Waterloo,5,18,50,89705
+2013,568,Barrie,1,17,36,34440
+2013,NA,Unmapped / Out-of-scope,130,716,1871,
+2014,505,Ottawa - Gatineau (Ontario part / partie de l'Ontario),1,1,1,195980
+2014,530,Kawartha Lakes,1,28,54,
+2014,532,Oshawa,1,3,4,65435
+2014,535,Toronto,41,226,773,1002645
+2014,537,Hamilton,4,31,59,149635
+2014,541,Kitchener - Cambridge - Waterloo,6,20,75,89705
+2014,568,Barrie,1,18,38,34440
+2014,NA,Unmapped / Out-of-scope,145,785,2060,
+2015,505,Ottawa - Gatineau (Ontario part / partie de l'Ontario),2,3,3,195980
+2015,530,Kawartha Lakes,1,28,54,
+2015,532,Oshawa,1,3,4,65435
+2015,535,Toronto,46,256,862,1002645
+2015,537,Hamilton,4,33,61,149635
+2015,541,Kitchener - Cambridge - Waterloo,7,22,99,89705
+2015,568,Barrie,1,19,41,34440
+2015,NA,Unmapped / Out-of-scope,156,875,2339,
+2016,505,Ottawa - Gatineau (Ontario part / partie de l'Ontario),2,4,4,195980
+2016,530,Kawartha Lakes,1,28,54,
+2016,532,Oshawa,1,3,4,65435
+2016,535,Toronto,49,288,951,1002645
+2016,537,Hamilton,4,33,69,149635
+2016,541,Kitchener - Cambridge - Waterloo,8,25,106,89705
+2016,568,Barrie,1,19,41,34440
+2016,NA,Unmapped / Out-of-scope,168,940,2530,
+2017,505,Ottawa - Gatineau (Ontario part / partie de l'Ontario),2,4,4,195980
+2017,530,Kawartha Lakes,1,28,54,
+2017,532,Oshawa,1,3,4,65435
+2017,535,Toronto,55,314,1006,1002645
+2017,537,Hamilton,5,37,79,149635
+2017,541,Kitchener - Cambridge - Waterloo,8,31,118,89705
+2017,568,Barrie,1,20,43,34440
+2017,NA,Unmapped / Out-of-scope,182,1029,2899,
+2018,505,Ottawa - Gatineau (Ontario part / partie de l'Ontario),3,10,13,195980
+2018,530,Kawartha Lakes,1,28,54,
+2018,532,Oshawa,1,3,4,65435
+2018,535,Toronto,56,331,1069,1002645
+2018,537,Hamilton,5,39,115,149635
+2018,541,Kitchener - Cambridge - Waterloo,8,33,123,89705
+2018,567,Collingwood,1,1,1,
+2018,568,Barrie,2,25,52,34440
+2018,NA,Unmapped / Out-of-scope,194,1100,3172,
+2019,505,Ottawa - Gatineau (Ontario part / partie de l'Ontario),3,13,16,195980
+2019,521,Kingston,1,1,2,36965
+2019,530,Kawartha Lakes,1,28,54,
+2019,532,Oshawa,1,3,4,65435
+2019,535,Toronto,60,372,1229,1002645
+2019,537,Hamilton,5,41,141,149635
+2019,541,Kitchener - Cambridge - Waterloo,9,36,141,89705
+2019,567,Collingwood,1,1,1,
+2019,568,Barrie,2,25,58,34440
+2019,NA,Unmapped / Out-of-scope,210,1235,3668,
+2020,505,Ottawa - Gatineau (Ontario part / partie de l'Ontario),3,13,16,195980
+2020,521,Kingston,1,1,2,36965
+2020,530,Kawartha Lakes,1,28,54,
+2020,532,Oshawa,1,3,4,65435
+2020,535,Toronto,65,415,1312,1002645
+2020,537,Hamilton,5,41,153,149635
+2020,541,Kitchener - Cambridge - Waterloo,10,41,158,89705
+2020,567,Collingwood,1,1,1,
+2020,568,Barrie,2,25,58,34440
+2020,NA,Unmapped / Out-of-scope,226,1361,4100,
+2021,505,Ottawa - Gatineau (Ontario part / partie de l'Ontario),3,15,18,195980
+2021,521,Kingston,1,1,2,36965
+2021,530,Kawartha Lakes,1,28,54,
+2021,532,Oshawa,1,3,4,65435
+2021,535,Toronto,72,450,1386,1002645
+2021,537,Hamilton,5,42,162,149635
+2021,541,Kitchener - Cambridge - Waterloo,11,51,197,89705
+2021,543,Brantford,1,1,1,27840
+2021,567,Collingwood,1,1,1,
+2021,568,Barrie,2,27,61,34440
+2021,NA,Unmapped / Out-of-scope,241,1454,4358,
+2022,505,Ottawa - Gatineau (Ontario part / partie de l'Ontario),3,16,19,195980
+2022,521,Kingston,1,1,2,36965
+2022,530,Kawartha Lakes,1,28,54,
+2022,532,Oshawa,1,3,4,65435
+2022,535,Toronto,76,479,1485,1002645
+2022,537,Hamilton,5,42,163,149635
+2022,541,Kitchener - Cambridge - Waterloo,12,72,257,89705
+2022,543,Brantford,1,1,1,27840
+2022,567,Collingwood,2,3,3,
+2022,568,Barrie,2,29,63,34440
+2022,NA,Unmapped / Out-of-scope,265,1609,4799,
+2023,505,Ottawa - Gatineau (Ontario part / partie de l'Ontario),3,17,21,195980
+2023,521,Kingston,1,1,2,36965
+2023,530,Kawartha Lakes,1,28,54,
+2023,532,Oshawa,1,3,4,65435
+2023,535,Toronto,85,580,1691,1002645
+2023,537,Hamilton,6,45,170,149635
+2023,541,Kitchener - Cambridge - Waterloo,13,78,283,89705
+2023,543,Brantford,1,1,1,27840
+2023,566,Owen Sound,1,2,2,
+2023,567,Collingwood,2,3,3,
+2023,568,Barrie,2,34,75,34440
+2023,NA,Unmapped / Out-of-scope,290,1777,5214,
+2024,505,Ottawa - Gatineau (Ontario part / partie de l'Ontario),3,17,21,195980
+2024,521,Kingston,1,1,2,36965
+2024,530,Kawartha Lakes,1,28,54,
+2024,532,Oshawa,1,3,4,65435
+2024,535,Toronto,91,638,1776,1002645
+2024,537,Hamilton,6,48,183,149635
+2024,541,Kitchener - Cambridge - Waterloo,14,84,303,89705
+2024,543,Brantford,1,1,1,27840
+2024,544,Woodstock,1,1,1,
+2024,553,Stratford,1,1,1,
+2024,566,Owen Sound,1,2,2,
+2024,567,Collingwood,2,3,3,
+2024,568,Barrie,2,34,75,34440
+2024,NA,Unmapped / Out-of-scope,323,1973,5724,
+2025,501,Cornwall,1,1,1,
+2025,505,Ottawa - Gatineau (Ontario part / partie de l'Ontario),3,17,21,195980
+2025,521,Kingston,2,2,4,36965
+2025,530,Kawartha Lakes,1,28,54,
+2025,532,Oshawa,1,3,4,65435
+2025,535,Toronto,103,704,1877,1002645
+2025,537,Hamilton,6,50,189,149635
+2025,541,Kitchener - Cambridge - Waterloo,14,93,332,89705
+2025,543,Brantford,1,1,1,27840
+2025,544,Woodstock,1,1,1,
+2025,550,Guelph,2,6,7,27955
+2025,553,Stratford,1,1,1,
+2025,566,Owen Sound,1,2,2,
+2025,567,Collingwood,2,3,3,
+2025,568,Barrie,2,35,76,34440
+2025,NA,Unmapped / Out-of-scope,365,2218,6333,
+2026,501,Cornwall,1,1,1,
+2026,505,Ottawa - Gatineau (Ontario part / partie de l'Ontario),3,17,21,195980
+2026,521,Kingston,2,2,4,36965
+2026,530,Kawartha Lakes,1,28,54,
+2026,532,Oshawa,1,3,4,65435
+2026,535,Toronto,105,713,1891,1002645
+2026,537,Hamilton,6,51,194,149635
+2026,541,Kitchener - Cambridge - Waterloo,14,93,332,89705
+2026,543,Brantford,1,1,1,27840
+2026,544,Woodstock,1,1,1,
+2026,550,Guelph,2,6,7,27955
+2026,553,Stratford,1,1,1,
+2026,566,Owen Sound,1,3,5,
+2026,567,Collingwood,2,3,3,
+2026,568,Barrie,2,35,76,34440
+2026,NA,Unmapped / Out-of-scope,373,2248,6385,
